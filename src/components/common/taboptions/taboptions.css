@@ -1,0 +1,36 @@
+
+
+.tab-options {
+    box-shadow: var(--border-white)  0px -0.5px 0px inset;
+    display: flex;
+    flex: 2;
+    
+        
+      
+}
+
+.options-wrapper{
+
+display: flex;
+}
+
+.tab-item {
+
+margin-right: 24px;
+
+padding: 12px 12px 20px 12px;
+
+}
+
+.tab-name {
+
+font-size: 20px;
+
+font-weight: 500;
+
+margin-left: 40px;
+
+cursor: pointer;
+
+
+}
